@@ -87,22 +87,11 @@ The project demonstrates industry-standard data analytics practices, including d
 ```text
 Customer-Behavior-Analysis/
 │
-├── Data/
-│   ├── customer_data.csv
-│
-├── Notebooks/
+│   ├── customer_shopping_behavior.csv
 │   ├── Customer_Shopping_Behavior_Analysis.ipynb
-│
-├── SQL/
 │   ├── customer_behavior.sql
-│
-├── Dashboard/
 │   ├── customer_behavior_dashboard.pbix
-│
-├── Reports/
-│
-├── README.md
-├── requirements.txt
+│   ├── README.md
 └── .gitignore
 ```
 
