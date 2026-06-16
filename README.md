@@ -1,4 +1,4 @@
-# CPredicting Customer Behavior Using Data Analytics
+# Predicting Customer Behavior Using Data Analytics
 
 ## Project Overview
 
